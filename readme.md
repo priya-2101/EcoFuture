@@ -31,4 +31,4 @@ A modern, responsive landing page for environmental organizations with smooth an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ecofuture.git
+git clone https://github.com/priya-2101/ecofuture.git
